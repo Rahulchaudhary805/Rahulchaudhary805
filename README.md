@@ -1,5 +1,5 @@
 
-### Hi there, I'm Rahul Chaudhary <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+### Hi there  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> , I'm Rahul Chaudhary 
 <br>
 <h2 align="center">I'm a college student of Information Technology Engineering!</h2>
 
